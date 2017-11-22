@@ -6,6 +6,7 @@
 * https://github.com/kamranahmedse/developer-roadmap  
 * https://github.com/k88hudson/git-flight-rules
 * https://github.com/getify/You-Dont-Know-JS
+* https://github.com/karan/Projects
 
 ## links
 
@@ -17,7 +18,12 @@
 
 * https://code.visualstudio.com/
 * https://dbeaver.jkiss.org/
-* webpack, yarn, sass, vue
+
+## llibreries / fw / module bundlers
+* https://webpack.js.org/
+* https://yarnpkg.com/lang/en/
+* http://sass-lang.com/
+* https://vuejs.org
 
 ## Punts importants
 * Fer ús de les apis en el dia a dia
