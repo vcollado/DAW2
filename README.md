@@ -1,30 +1,46 @@
-## repos
+> You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job
 
-* https://github.com/date-fns/date-fns
-* https://github.com/lodash/lodash
-* https://github.com/mr-mig/every-programmer-should-know
-* https://github.com/kamranahmedse/developer-roadmap  
-* https://github.com/k88hudson/git-flight-rules
+[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+## Punts importants
+* Git
+* No reinventar la roda
+* Pas del IDE al terminal
+* Valorar factors a l'hora d'adoptar noves llibreries
+* Lectura de la documentació
+* Fer ús de API's en el dia a dia
+* Integració continua
+* Consolidació d'un llenguatge de back-end
+* i18n / l10n
+* Git
+
+---
+
+### Enllaços clau
+
 * https://github.com/getify/You-Dont-Know-JS
+* https://github.com/lodash/lodash
+* https://github.com/date-fns/date-fns
+* https://es.atlassian.com/git
+* https://www.pluralsight.com/courses/mastering-git
+* https://github.com/k88hudson/git-flight-rules
+* http://conqueringthecommandline.com/book/frontmatter
+
+----
+
+* https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+* https://github.com/mr-mig/every-programmer-should-know
 * https://github.com/karan/Projects
-
-## links
-
 * https://stateofjs.com
+* https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png
 * https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html
 * https://hnpwa.com/
 
-## eines
 
-* https://code.visualstudio.com/
-* https://dbeaver.jkiss.org/
+## Menció especial
 
-## llibreries / fw / module bundlers
-* https://webpack.js.org/
-* https://yarnpkg.com/lang/en/
-* http://sass-lang.com/
-* https://vuejs.org
-
-## Punts importants
-* Fer ús de les apis en el dia a dia
-* No reinventar la roda 
+* [GitLab](https://gitlab.com/?nav_source=navbar)
+* [webpack](https://webpack.js.org/)
+* [Vue](https://vuejs.org)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [DBeaver](https://dbeaver.io/)
