@@ -14,6 +14,10 @@
 * i18n / l10n
 * Git
 
+## Toolbox bàsica
+
+SQL + Git + Bash/Python
+
 ---
 
 ### Enllaços clau
