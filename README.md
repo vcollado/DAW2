@@ -25,6 +25,7 @@ SQL + Git + Bash/Python
 * https://github.com/getify/You-Dont-Know-JS
 * https://github.com/lodash/lodash
 * https://github.com/date-fns/date-fns
+* https://github.com/axios/axios
 * https://es.atlassian.com/git
 * https://www.pluralsight.com/courses/mastering-git
 * https://github.com/k88hudson/git-flight-rules
